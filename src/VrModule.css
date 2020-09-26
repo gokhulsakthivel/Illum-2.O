@@ -1,0 +1,9 @@
+.vrModule{
+    display: flex;
+    width: 20%!important;
+}
+
+
+.a-enter-ar-button, .a-enter-vr-button{
+    background-color: #a69485;
+}

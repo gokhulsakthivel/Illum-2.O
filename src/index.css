@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Color Theme Swatches in Hex */
+.MINIMAL-WHITE-SERIES-1-hex { background-color: #BFC7D9 !important; }
+.MINIMAL-WHITE-SERIES-2-hex { background-color: #466C8C !important; }
+.MINIMAL-WHITE-SERIES-3-hex { background-color: #789EBF !important; }
+.MINIMAL-WHITE-SERIES-4-hex { background-color: #D9D9D9 !important; }
+.MINIMAL-WHITE-SERIES-5-hex { background-color: #A69485 !important; }
+
+/* Color Theme Swatches in RGBA */
+.MINIMAL-WHITE-SERIES-1-rgba { background-color: rgba(190, 199, 216, 1); }
+.MINIMAL-WHITE-SERIES-2-rgba { background-color: rgba(70, 107, 140, 1); }
+.MINIMAL-WHITE-SERIES-3-rgba { background-color: rgba(120, 158, 191, 1); }
+.MINIMAL-WHITE-SERIES-4-rgba { background-color: rgba(216, 216, 216, 1); }
+.MINIMAL-WHITE-SERIES-5-rgba { background-color: rgba(165, 148, 132, 1); }
+
