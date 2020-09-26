@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/illum-2.O/precache-manifest.e88365ac5f1632158375bbee65211a1c.js"
+  "/illum-2.O/precache-manifest.c22a3aa3ac37f0e8e8b3aa7e900bb816.js"
 );
 
 self.addEventListener('message', (event) => {
