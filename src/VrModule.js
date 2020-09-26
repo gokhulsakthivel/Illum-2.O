@@ -24,14 +24,13 @@ class VrModule extends Component
 					fov: 80;
 					zoom: 1;
 				" position="0 2 5" orbit-controls="
-                    target: #target;
+                    target: 0 1.6 -0.5;
                     enableDamping: true;
                     dampingFactor: 0.125;
                     rotateSpeed: 0.25;
                     minDistance: 3;
                     maxDistance: 100;
                     " mouse-cursor="" rotation="" scale="" visible="" look-controls="">
-				<a-entity geometry="primitive:cone; radius-bottom:1; radius-top:0" scale=".33 1 .33" position="0 0 0" rotation="90 0 0" material="color: #0099ff; transparent: true; opacity:0.5" visible=""></a-entity>
 			</a-entity>
                 {/* <a-entity supercraft-loader="name: icky-snake"></a-entity> */}
                 {/* <a-entity camera look-controls orbit-controls="target: 0 1.6 -0.5; minDistance: 0.5; maxDistance: 180; initialPosition: 0 5 15"></a-entity> */}
