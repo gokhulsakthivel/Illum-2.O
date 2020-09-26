@@ -37,6 +37,8 @@ export class Sidebar extends Component {
                 let arr = this.state.axis;
                 console.log(arr.length)
                 arr.push({length:len,breadth:bre})
+                document.getElementById("getLength").value = '';
+                document.getElementById("getbreadth").value = ''
                 this.setState(
                     {
                         
