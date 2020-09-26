@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/illum-2.O/static/css/main.645c1017.chunk.css",
+    "main.js": "/illum-2.O/static/js/main.3c22a1a2.chunk.js",
+    "main.js.map": "/illum-2.O/static/js/main.3c22a1a2.chunk.js.map",
+    "runtime-main.js": "/illum-2.O/static/js/runtime-main.a67878ed.js",
+    "runtime-main.js.map": "/illum-2.O/static/js/runtime-main.a67878ed.js.map",
+    "static/js/2.cab19673.chunk.js": "/illum-2.O/static/js/2.cab19673.chunk.js",
+    "static/js/2.cab19673.chunk.js.map": "/illum-2.O/static/js/2.cab19673.chunk.js.map",
+    "index.html": "/illum-2.O/index.html",
+    "precache-manifest.f4f363b63923337d8be642ebfc781ffd.js": "/illum-2.O/precache-manifest.f4f363b63923337d8be642ebfc781ffd.js",
+    "service-worker.js": "/illum-2.O/service-worker.js",
+    "static/css/main.645c1017.chunk.css.map": "/illum-2.O/static/css/main.645c1017.chunk.css.map",
+    "static/js/2.cab19673.chunk.js.LICENSE.txt": "/illum-2.O/static/js/2.cab19673.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67878ed.js",
+    "static/js/2.cab19673.chunk.js",
+    "static/css/main.645c1017.chunk.css",
+    "static/js/main.3c22a1a2.chunk.js"
+  ]
+}
