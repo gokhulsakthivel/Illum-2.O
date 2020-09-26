@@ -45,6 +45,32 @@
     color:#466C8C;
 }
 
-.sidebar__loginDetails{
-    
-}
+@media only screen and (max-width: 600px) {
+    .sidebar {
+        display: flex;
+        /* flex-direction: column; */
+        align-items: center;
+        justify-content: space-around;
+        width: 100%;
+        bottom: 0;
+        position: absolute;
+        height: 35vh;
+        color: #d9d9d9;
+        z-index: 100;
+    }
+    .vr {
+        display: flex;
+        width: 100%!important;
+    }
+    a-scene {
+        display: block;
+        position: relative;
+        height: 100%;
+        width: 100%;
+    }
+    .main__content {
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+    }
+  }
